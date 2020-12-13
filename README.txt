@@ -8,8 +8,7 @@ Our role is to collect and cultivate supplemental data sets for use in the OpenI
 
 FOR THOSE USING R AND GITHUB
 
-	1. We will commonly use the devtools, here, usethis, janitor, dplyr and ggplot2 packages. If needed, you can install them using the 
-		code below:
+	1. We will commonly use the devtools, here, usethis, janitor, dplyr and ggplot2 packages. If needed, you can install them using the code below:
 
 		>install.packages(c("devtools", "here", "usethis", "janitor", "dplyr", "ggplot2"))
 
