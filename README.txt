@@ -19,7 +19,7 @@ FOR THOSE USING R AND GITHUB
 	4. Watch this screencast to see how everything is organized and how to add data to the package. This will include syntax and naming conventions that are required in order for the data to be merged with OpenIntro and/or USData.
 	{INSERT VIDEO LINK HERE}
 
-	5. Submit a pull request on GitHub to add new data sets up to once per week. After we have collectively reached {ENTER THRESHOLD HERE} new data sets, I will submit a pull request to OpenIntro and/or USData to have the data sets merged into those packages. Note that the OpenIntro and USData packages will not necesarilly be updated on the CRAN everytime we merge with them. 
+	5. Submit a pull request on GitHub to add new data sets once per month. After we have collectively reached {ENTER THRESHOLD HERE} new data sets, I will submit a pull request to OpenIntro and/or USData to have the data sets merged into those packages. Note that the OpenIntro and USData packages will not necesarilly be updated on the CRAN everytime we merge with them. 
 
 	6. Please DO NOT edit the description or namespace files.
 
