@@ -29,8 +29,8 @@ ggplot(data = sibling_heights, aes(brother, sister))+
     geom_smooth(method = lm, se = FALSE)+
     labs(
         title = "Sibling Heights",
-        x = "Height of Brother (in.),
-        y = "Height of Sister (in.))
+        x = "Height of Brother (in.)",
+        y = "Height of Sister (in.)")
 
 }
 \keyword{datasets}
