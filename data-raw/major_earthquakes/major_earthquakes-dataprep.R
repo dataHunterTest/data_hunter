@@ -4,7 +4,7 @@ library(janitor)
 
 # load data ---------------------------------------------------------------------
 
-major_earthquakes <- read.csv("major_earthquakes.csv")
+major_earthquakes <- read.csv("data-raw/major_earthquakes/major_earthquakes.csv")
 
 # cleaning: remove X variable, clean names -------------------------------
 
