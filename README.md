@@ -1,3 +1,5 @@
+data_hunters <a href="https://www.openintro.org/"><img src="man/figures/data_hunter.png" align="right" height="170"></a>
+
 Welcome to the data_hunters!
 
 Our role is to collect and cultivate supplemental data sets for use in the OpenIntro or USData R packages associated with the OpenIntro textbooks. 
