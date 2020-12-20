@@ -18,7 +18,7 @@ FOR THOSE USING R AND GITHUB
 	
 	3. If using RStudio, create a new project from this forked repository. 
 
-	4. Watch this [screencast](https://youtu.be/CvIDRRMJlvA) to see how everything is organized and how to add data to the package. This will include syntax and naming conventions that are required in order for the data to be merged with OpenIntro and/or USData.
+	4. Watch this screencast (https://youtu.be/CvIDRRMJlvA) to see how everything is organized and how to add data to the package. This will include syntax and naming conventions that are required in order for the data to be merged with OpenIntro and/or USData.
 
 	5. Submit a pull request on GitHub to add new data sets once per month. After we have collectively reached 6 new data sets, I will submit a pull request to OpenIntro and/or USData to have the data sets merged into those packages. Note that the OpenIntro and USData packages will not necesarilly be updated on the CRAN everytime we merge with them. 
 
