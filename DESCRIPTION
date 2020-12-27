@@ -1,6 +1,6 @@
 Package: datahunter
 Title: Data set repository for OpenIntro textbooks
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R:
     person("Nick", "Paterno", email = "nicholas.paterno@gmail.com", role = c("aut","cre")) 
 Description: Supplemental data sets for OpenIntro textbooks. Data sets from this package will be periodically merged
