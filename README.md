@@ -23,3 +23,5 @@ FOR THOSE USING R AND GITHUB
 5. Submit a pull request on GitHub to add new data sets once per month. After we have collectively reached 6 new data sets, I will submit a pull request to OpenIntro and/or USData to have the data sets merged into those packages. Note that the OpenIntro and USData packages will not necesarilly be updated on the CRAN everytime we merge with them. 
 
 6. Please DO NOT edit the description or namespace files.
+
+{Note for Nick: add new GitHub/RStudio video}
