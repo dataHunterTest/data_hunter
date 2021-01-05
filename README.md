@@ -24,4 +24,4 @@ FOR THOSE USING R AND GITHUB
 
 6. Please DO NOT edit the description or namespace files.
 
-{Note for Nick: add new GitHub/RStudio video}
+{add new GitHub/RStudio video and instructions.}
